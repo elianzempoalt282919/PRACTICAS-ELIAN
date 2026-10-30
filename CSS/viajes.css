@@ -1,0 +1,44 @@
+/* Estilos para la página de viajes */
+
+
+
+
+body {background-color: beige;
+ font-family: "Montserrat", sans-serif;}
+
+h1  {text-transform: uppercase;
+      background-color: rgb(244, 226, 226);
+       text-align: center;} 
+
+h2 {padding: 10px 0px 0px;
+    color: rgb(9, 9, 9);
+    font-family: Arial, Helvetica, sans-serif;
+background-color: beige ;
+margin: 0px 0px 10px 10px;}
+
+.imagen-flotante {
+  float: left;         
+  margin-right: 16px;  
+  margin-bottom: 10px;}
+
+img {
+    width: 400px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin-left: 10px;
+    margin-top: 10px;}
+
+.pie{background-color:  rgb(244, 226, 226);
+    color: white;
+    text-align: center;
+    padding: 16px 0px;
+    margin-top: 25px;}
+
+.caja {
+    display: flex;          
+    align-items: center;    
+    gap: 25px;              
+    margin: 30px;}
+
+

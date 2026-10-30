@@ -1,0 +1,9 @@
+
+
+.contenedor {
+  display: flex;}   
+
+img {
+  width: 100%;       /* Ocupa el 100% del contenedor padre */
+  max-width: 600px;  /* Evita que se pixelee si el contenedor es muy grande */
+  height: auto;}
